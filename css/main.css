@@ -19,6 +19,7 @@ h6 {
   padding: 0;
   text-align: center;
   list-style-type: none;
+  font-size: 1.5rem;
 }
 
 .skiplinks a:focus{
@@ -80,3 +81,4 @@ form button {
 .site-footer {
   padding: 2rem 0;
 }
+
