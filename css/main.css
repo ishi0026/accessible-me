@@ -114,7 +114,7 @@ form button {
 }
 
 .site-footer a {
-  /* position: absolute; */
+  margin: 20px;
   background-color:aquamarine;
   color:black;
   padding: .5em 1em;
@@ -126,11 +126,3 @@ form button {
   background-color: grey;
 }
 
-/* .footer a li{
-  position: absolute;
-  background-color:aquamarine;
-  color:black;
-  padding: .5em 1em;
-  font-size: 1.25rem;
-  font-weight: bold;
-} */
